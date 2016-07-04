@@ -1,0 +1,36 @@
+# pack-refs with: peeled fully-peeled 
+d4af83fc600d02dcfedae457353efbce8726b8d9 refs/remotes/origin/andrey/ext4_inline_data
+017ac246a97f79f2e8248580248e5932dc787820 refs/remotes/origin/arm_coreboot
+125f436763c3824fab0c2b33d48382fd9a484b84 refs/remotes/origin/grub-legacy
+ebd289335a58e7f27b6bb1e60ee5180eace7290f refs/remotes/origin/leiflindholm/arm64
+b524fa27f56381bb0efa4944e36f50265113aee5 refs/remotes/origin/master
+206676601eb853fc319df14cd3398fbdfde665ac refs/remotes/origin/master-bad-anon-commit
+45f169e63d9cda57840e057c365656c29b81aab2 refs/remotes/origin/multiboot
+bb61b2b8010a14f09905522b053099996a1833d1 refs/remotes/origin/multiboot2
+b4fc7bc2fdfbcb726e9094d8b1848b393364de77 refs/remotes/origin/next
+e7f405abb329977b717371b80fddb38ff9063e8a refs/remotes/origin/peter/devmapper
+b14d85db8993e1ba37e6e508fde3afb747713e7f refs/remotes/origin/pfsmorigo/no-libgcc
+0544db450d036fd5685ed877bc7374d80df6f60e refs/remotes/origin/pfsmorigo/vlantag
+6e4e4ee33f98e1697251e5735ec11d477eada40d refs/remotes/origin/phcoder/arm
+67a51e8e151a58d8a1ca41da7bef9032f942eff8 refs/remotes/origin/phcoder/arrows
+7699d542334ae59b9e6a4928676f080b3c9b53b8 refs/remotes/origin/phcoder/brltty
+3e89a76fee8edfbeb3d069f7d2f04df7fa34ecc3 refs/remotes/origin/phcoder/c3
+d69064ad50049dbe7f40564a0937ccfe401b028b refs/remotes/origin/phcoder/efi_compression
+371bc1c048e460b568178e8c5ce64c5a962ccc97 refs/remotes/origin/phcoder/file_types
+8e2fb1e3ce54473ce3711e4b4278b9d1088e8f88 refs/remotes/origin/phcoder/filesize
+d5edef1a77052672a926c625bec16616a8e088dc refs/remotes/origin/phcoder/greffs
+6d83b08e9c3e76e2c3e50000552aea3c4e8b111b refs/remotes/origin/phcoder/newports/s390
+7c58da503f67ddff0b237307f4e16357650d0951 refs/remotes/origin/phcoder/ports/alpha
+3635094bf490ae29957dfd686f8a55ac64883f2b refs/remotes/origin/phcoder/scratch
+e5fb242c8591f3602f0bc1a9c0c5a82da74640ce refs/tags/0.6.96
+fce5d8ff62d3deb264ba5916b62df69998caf916 refs/tags/1.98
+6ada82d14df6c66cbb433d383e5f2d86e865d7c2 refs/tags/1.99
+5f91f70146ad47cc68d349dab308999d099db687 refs/tags/2.00
+7cd672af5214332a3d16e913f78c338256d477ba refs/tags/2.02-beta3
+^8207874e5d0d05159fd8c531c87f0f6e4653b8a6
+97400350164d40b74f0b350041ec8df8ad09184e refs/tags/grub-2.02-beta1
+^2fa5a58ca327a74f6ccc258a113b3802ac762df0
+fcaebbe869cafe30b2ff9bf4ea14b179389428d6 refs/tags/grub-2.02-beta2
+^e8f07821cce1bd0ab6d5622c2a42440f15f4fd71
+d3c671b99bb66943c437ab6029b17ab49dadf3bd refs/tags/grub-2.02-beta3
+^8207874e5d0d05159fd8c531c87f0f6e4653b8a6
