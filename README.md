@@ -1,5 +1,7 @@
 # grub2
-gnu.grub2 
+gnu`s grub2 
+>git clone
+>> https://github.com/nb0/grub2.git  or   git clone git://git.savannah.gnu.org/grub.git
 
 https://www.gnu.org/software/grub/grub-download.html
 >Obtaining GRUB
