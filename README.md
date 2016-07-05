@@ -1,7 +1,19 @@
 # grub2
 gnu.grub2 
 
+https://www.gnu.org/software/grub/grub-download.html
+>Obtaining GRUB
+>GRUB 2 is now available via ftp. You can download releases from the ftp site ftp://ftp.gnu.org/gnu/grub.
 
+>All the development is done through a Git repository. If you are interested in the cutting-edge version of GNU GRUB, for >example, to test a newer version or to add new features, we strongly recommend giving the latest repository version a >try. You can obtain the latest GRUB source from the GIT:
+>```
+>git clone git://git.savannah.gnu.org/grub.git
+>```
+>For developers with write access via ssh, use:
+>```
+>git clone <membername>@git.sv.gnu.org:/srv/git/grub.git
+>```
+>You can also use HTTP if needed.
 
 
     http://www.gnu.org/software/grub/
