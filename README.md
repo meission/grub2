@@ -1,8 +1,8 @@
 # grub2
 gnu`s grub2 
->git clone
->> https://github.com/nb0/grub2.git  or   git clone git://git.savannah.gnu.org/grub.git
-
+>```
+>git clone https://github.com/nb0/grub2.git 
+>```
 https://www.gnu.org/software/grub/grub-download.html
 >Obtaining GRUB
 >GRUB 2 is now available via ftp. You can download releases from the ftp site ftp://ftp.gnu.org/gnu/grub.
